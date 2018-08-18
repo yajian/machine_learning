@@ -1,17 +1,9 @@
-# 自动驾驶ND第一期
+# 机器学习算法系列
 
-## Term-1 p1 lane-detection
+## KNN算法
 
-车道线检测，详见[Term-1 p1 lane-detection](https://yajian.github.io/Term-1-p1-lane-detection/)
+详见[KNN算法](https://yajian.github.io/KNN%E7%AE%97%E6%B3%95/)
 
-## Term-1-p2-traffic-sign-classifier
+## kd数
 
-交通标志检测，详见[Term-1-p2-traffic-sign-classifier](https://yajian.github.io/Term-1-p2-traffic-sign-classifier/)
-
-## Term-1-p4-advanced-lane-lines
-
-高级车道线检测，详见[Term-1-p4-advanced-lane-lines](https://yajian.github.io/Term-1-p4-advanced-lane-lines/)
-
-## Term-1-p5-vehicle-detection
-
-车辆检测，详见[Term-1-p5-vehicle-detection](https://yajian.github.io/Term-1-p5-vehicle-detection/)
+详见[kd树](https://yajian.github.io/kd%E6%A0%91/)
