@@ -7,3 +7,7 @@
 ## kd数
 
 详见[kd树](https://yajian.github.io/kd%E6%A0%91/)
+
+## 线性回归
+
+详见[线性回归](https://yajian.github.io/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/)
