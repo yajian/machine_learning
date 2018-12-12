@@ -1,0 +1,7 @@
+strict digraph "" {
+	graph [epsilon=0.01];
+	"no surfacing" -> flippers	 [label=1];
+	"no surfacing" -> no	 [label=0];
+	flippers -> yes	 [label=1];
+	flippers -> no	 [label=0];
+}
