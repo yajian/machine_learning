@@ -1,6 +1,7 @@
 # coding=utf-8
 from math import log
 import pygraphviz as pgv
+import os
 
 
 def calcShannonEnt(dataSet):
