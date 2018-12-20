@@ -1,7 +1,10 @@
 # coding=utf-8
+import uuid
+
 
 class TreeNode(object):
     def __init__(self, split_feat, split_value):
+        self.uid = uuid.uuid1()
         self.split_value = split_value
         self.split_feat = split_feat
         self.left = None
