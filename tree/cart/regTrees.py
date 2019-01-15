@@ -77,7 +77,7 @@ def createTree(dataSet, leafType=regLeaf, errType=regErr, ops=(1, 4)):
     lSet, rSet = binSplitDataSet(dataSet, feat, val)
     # 左子树
     retTree['left'] = createTree(lSet, leafType, errType, ops)
-    # 柚子树
+    # 右子树
     retTree['right'] = createTree(rSet, leafType, errType, ops)
     return retTree
 

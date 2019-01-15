@@ -26,4 +26,8 @@
 
 ## 朴素贝叶斯
 
-详见[朴素贝叶斯]()
+详见[朴素贝叶斯](https://yajian.github.io/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%AE%97%E6%B3%95/)
+
+## softmax回归
+
+详见[softmax回归]()
