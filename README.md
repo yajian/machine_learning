@@ -30,4 +30,8 @@
 
 ## softmax回归
 
-详见[softmax回归]()
+详见[softmax回归](https://yajian.github.io/softmax%E5%9B%9E%E5%BD%92/)
+
+## word2vec
+
+详见[wordvec]()
